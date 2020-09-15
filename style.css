@@ -1,0 +1,79 @@
+.button {
+    background-color: #5DADE2;
+    border: none;
+    color: white;
+    padding: 10px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  .light-gray, hr {
+    color: #B3B6B7;
+  }
+
+  header {
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+
+  .float-left {
+      float: left;
+  }
+
+  .topright {
+    position: absolute;
+    top: 32px;
+    right: 16px;
+}
+
+  .padding{
+      padding-right:10px;
+  }
+
+  ul.demo {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ li {
+     display: inline-block;
+     padding-right: 50px;
+ }
+
+ .center {
+    margin: auto;
+    width: 50%;
+    padding: 30px;
+    text-align: center;
+  }
+
+  .center2 {
+    margin: auto;
+    width: 50%;
+    padding: 30px;
+    text-align: left;
+  }
+
+  a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  a:active {
+    text-decoration: underline;
+  }
+
+
+  
+
+ 
